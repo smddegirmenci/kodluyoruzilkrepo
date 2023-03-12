@@ -2,7 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](https://github.com/smddegirmenci/kodluyoruzilkrepo/blob/main/figures/github.png)
+![github](https://user-images.githubusercontent.com/122987850/224567598-53469f07-d049-4910-8522-02593193d4ab.png)
+
 
 ## Installation
 
@@ -28,3 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Project Image
+![project image](https://user-images.githubusercontent.com/122987850/224567793-7604ad7a-0a10-4fdc-a273-2c7e1663a2c1.png)
